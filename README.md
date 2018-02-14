@@ -20,9 +20,19 @@ Microsoft .NET Framework 4.6
 ![Lexicon](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Lexicon.png)
 
 ***
+### Drag and drop
+
+![Drag and drop](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Drag%20and%20drop.png)
+
+***
 ### Mode for adding and editing words
 
 ![Mode for adding and editing words](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Mode%20for%20adding%20and%20editing%20words.png)
+
+***
+### Filters
+
+![Filters](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Filters.png)
 
 ***
 ### Recognition mode
@@ -30,9 +40,9 @@ Microsoft .NET Framework 4.6
 ![Recognition mode](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Recognition%20mode.png)
 
 ***
-### Recognition моде (with prompt)
+### Recognition mode (with prompt)
 
-![Recognition моде (with prompt)](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Recognition%20моде%20(with%20prompt).png)
+![Recognition mode (with prompt)](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Recognition%20mode%20(with%20prompt).png)
 
 ***
 ### Orthography mode
@@ -43,11 +53,6 @@ Microsoft .NET Framework 4.6
 ### Full size picture
 
 ![Full size picture](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Full%20size%20picture.png)
-
-***
-### Filters
-
-![Filters](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Filters.png)
 
 ***
 ### Settings
