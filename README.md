@@ -29,10 +29,18 @@ Microsoft .NET Framework 4.6
 
 ![Recognition mode](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Recognition%20mode.png)
 
+### Recognition моде (with prompt)
+
+![Recognition моде (with prompt)](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Recognition%20моде%20(with%20prompt).png)
+
 ***
 ### Orthography mode
 
 ![Orthography mode](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Orthography%20mode.png)
+
+### Full size picture
+
+![Full size picture](https://github.com/docto-RAM/Turn-on-Lexicon/blob/master/Full%20size%20picture.png)
 
 ***
 ### Filters
