@@ -5,7 +5,7 @@ Do not study what you are being offered, but study what you need! Your personal 
 ***
 ## Requirements
 
-OS Windows 7/8.1/10
+OS Windows 7/8.x/10
 
 Microsoft .NET Framework 4.6
 
